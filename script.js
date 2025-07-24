@@ -3,7 +3,7 @@ const btn = document.getElementById("btnSurprise");
 const popup = document.getElementById("popup");
 
 foto.addEventListener("click", () => {
-  alert("Kamu cantik banget, tahu nggak? 😍");
+  alert("Kamu cantik banget, tahu nggak? Gak mau kasih mam ego aku lagi nih??? 😍");
 });
 
 btn.addEventListener("click", () => {
